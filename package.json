@@ -1,1 +1,4 @@
-{ "engines": { "node": "0.8.2" } }
+{ 
+  "name" : "myapp",
+  "engines": { "node": "0.8.2" } 
+}
