@@ -1,6 +1,1 @@
-{ 
-  "name" : "myapp",
-  "version": "1.0.0",
-  "engines": { "node": "0.8.2" },
-  "dependencies" : { "foo" : "https://github.com/KuduApps/NpmPackagePinnedVersion/tarball/master" }
-}
+{ "name" : "foo", "version": "1.0.0" }
